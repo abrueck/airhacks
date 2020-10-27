@@ -2,7 +2,9 @@
 airhacks.live
 ========
 
-https://jcon.one keynote: "What Should Happen in 2021 with Java Backends and Web Frontends" and session "Web Components without Frameworks: Productivity, Speed and Independence" materials.
+# jcon.one: 
+
+## Keynote: "What Should Happen in 2021 with Java Backends and Web Frontends" and Session "Web Components without Frameworks: Productivity, Speed and Independence" materials.
 
 
 ## keynote links
