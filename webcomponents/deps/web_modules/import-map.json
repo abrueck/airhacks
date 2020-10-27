@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "@ui5/webcomponents/dist/DatePicker": "./@ui5/webcomponents/dist/DatePicker.js",
+    "@vaadin/router": "./@vaadin/router.js",
+    "@vaadin/vaadin-date-picker": "./@vaadin/vaadin-date-picker.js",
+    "lit-html": "./lit-html.js",
+    "redux": "./redux.js"
+  }
+}
