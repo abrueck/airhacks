@@ -23,6 +23,16 @@ https://www.w3.org/Jigsaw/#Getting-2-2-6
 
 https://jakarta.ee/
 
+https://www.payara.fish
+
+https://www.wildfly.org
+
+https://openliberty.io
+
+https://piranha.cloud
+
+https://ee.kumuluz.com/
+
 https://helidon.io/#/
 
 https://quarkus.io/
